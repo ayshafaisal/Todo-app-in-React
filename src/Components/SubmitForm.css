@@ -1,0 +1,21 @@
+.heading{
+   
+    display: flex;
+    justify-content: center;
+
+}
+.label-box{
+
+    display: flex;
+    justify-content: end;
+    margin: 10px;
+    padding: 30px;
+    gap: 10px;
+}
+
+.filter-box{
+   
+    display: flex;
+    gap: 10px;
+
+}
